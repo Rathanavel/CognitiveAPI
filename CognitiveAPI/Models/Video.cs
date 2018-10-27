@@ -7,6 +7,10 @@ namespace CognitiveAPI.Models
 {
     public class Video
     {
-        public string data { get; set; }
+        public int VideoId { get; set; }
+
+        public string VideoName { get; set; }
+
+        public double VideoSize { get; set; }
     }
 }
