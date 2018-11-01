@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CognitiveAPI", "CognitiveAPI\CognitiveAPI.csproj", "{19669A14-64E3-4044-A895-0E2125A286BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CognitiveHeadlessDeamon", "CognitiveHeadlessDeamon\CognitiveHeadlessDeamon.csproj", "{B474DB1F-17DC-4848-A8E0-B46A79C7FF83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{19669A14-64E3-4044-A895-0E2125A286BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19669A14-64E3-4044-A895-0E2125A286BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19669A14-64E3-4044-A895-0E2125A286BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B474DB1F-17DC-4848-A8E0-B46A79C7FF83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B474DB1F-17DC-4848-A8E0-B46A79C7FF83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B474DB1F-17DC-4848-A8E0-B46A79C7FF83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B474DB1F-17DC-4848-A8E0-B46A79C7FF83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
