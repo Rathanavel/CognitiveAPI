@@ -20,7 +20,6 @@ namespace CognitiveHeadlessDeamon
 
         //App Native Client ID
         private readonly static string NativeClientId = ConfigurationManager.AppSettings["ida:NativeClientId"];
-        private readonly static string NativeServicesBaseAddress = ConfigurationManager.AppSettings["ida:NativeServicesBaseAddress"];
 
         //Azure ActiveDirectory details
         private readonly static string aadInstance = ConfigurationManager.AppSettings["ida:AADInstance"];
